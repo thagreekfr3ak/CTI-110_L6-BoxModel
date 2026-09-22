@@ -1,0 +1,50 @@
+header{
+    background-color: #f7f6f4;
+    font-family:"Franklin Gothic Medium";
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+    padding: 15px;
+    margin: 10px;
+    border: 3px solid #000000;
+}
+
+body {
+  background-color: #d2dbec;
+  font-family: "Franklin Gothic Medium";
+    color: #131212;
+  font-size: 30px;
+  margin: 20px;
+  padding: 15px;
+  
+}
+
+footer {
+  background-color: #000000;
+  font-family: "bush script";
+    color: #f3efef;
+  font-size: 25px;
+  height: 50px;
+  padding: 30px;
+}
+
+.subhead{
+    font-family:"Franklin Gothic Medium";
+    color:rgb(0, 0, 0);
+    font-size: 75px;
+
+    
+}
+
+.pic{
+    height: 500px;
+    width: 500px;
+    border: 3px solid #000000;
+}
+#funfact{
+   border: 3px solid #000000;
+  background-color: #a09e9e;
+  font-size: 25px;
+  height: 50px;
+  padding: 30px;
+  margin: 100px
+}
